@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="assets/banner.png" width="90%" height="90%"><br>
+<img src="https://satucat.github.io/recyclebin/assets/banner.png" width="90%" height="90%"><br>
 </h1>
 <p align="center">
 <span>Inspired by <a href="https://reddit.com/r/pcmasterrace/comments/uvtdbx/cat_bin/">this Reddit post</a> by <a href="https://reddit.com/user/DARKplayz_">u/DARKplayz_</a></span>
