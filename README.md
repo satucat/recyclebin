@@ -63,7 +63,7 @@ Run ``iwr satucat.github.io/recyclebin/get.ps1 | iex`` in Powershell
 </details>
 
 <details>
-<summary><b>Minecraft Chest</b></summary>
+<summary><b>Niko</b></summary>
 <img src="themes/niko/preview.gif">
 <br>
 <b><a href="https://github.com/satucat/recyclebin/tree/main/themes/niko">[View Icons]</a></b>
