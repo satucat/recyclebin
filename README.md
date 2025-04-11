@@ -17,49 +17,49 @@ Run ``iwr satucat.github.io/recyclebin/get.ps1 | iex`` in Powershell (recommende
 <summary><b>Patrick Star</b></summary>
 <img src="themes/patrick-star/preview.gif">
 <br>
-<b><a href="https://github.com/sdushantha/recycle-bin-themes/tree/main/themes/patrick-star">[View Icons]</a></b>
+<b><a href="https://github.com/satucat/recyclebin/tree/main/themes/patrick-star">[View Icons]</a></b>
 </details>
 
 <details>
 <summary><b>Pop Cat</b></summary>
 <img src="themes/pop-cat/preview.gif">
 <br>
-<b><a href="https://github.com/sdushantha/recycle-bin-themes/tree/main/themes/pop-cat">[View Icons]</a></b>
+<b><a href="https://github.com/satucat/recyclebin/tree/main/themes/pop-cat">[View Icons]</a></b>
 </details>
 
 <details>
 <summary><b>Kirby</b></summary>
 <img src="themes/kirby/preview.gif">
 <br>
-<b><a href="https://github.com/sdushantha/recycle-bin-themes/tree/main/themes/kirby">[View Icons]</a></b>
+<b><a href="https://github.com/satucat/recyclebin/tree/main/themes/kirby">[View Icons]</a></b>
 </details>
 
 <details>
 <summary><b>Kanna</b></summary>
 <img src="themes/kanna/preview.gif">
 <br>
-<b><a href="https://github.com/sdushantha/recycle-bin-themes/tree/main/themes/kanna">[View Icons]</a></b>
+<b><a href="https://github.com/satucat/recyclebin/tree/main/themes/kanna">[View Icons]</a></b>
 </details>
 
 <details>
 <summary><b>Sword Kirby</b></summary>
 <img src="themes/sword-kirby/preview.gif">
 <br>
-<b><a href="https://github.com/sdushantha/recycle-bin-themes/tree/main/themes/sword-kirby">[View Icons]</a></b>
+<b><a href="https://github.com/satucat/recyclebin/tree/main/themes/sword-kirby">[View Icons]</a></b>
 </details>
 
 <details>
 <summary><b>French Fries</b></summary>
 <img src="themes/french-fries/preview.gif">
 <br>
-<b><a href="https://github.com/sdushantha/recycle-bin-themes/tree/main/themes/french-fries">[View Icons]</a></b>
+<b><a href="https://github.com/satucat/recyclebin/tree/main/themes/french-fries">[View Icons]</a></b>
 </details>
 
 <details>
 <summary><b>Minecraft Chest</b></summary>
 <img src="themes/minecraft-chest/preview.gif">
 <br>
-<b><a href="https://github.com/sdushantha/recycle-bin-themes/tree/main/themes/minecraft-chest">[View Icons]</a></b>
+<b><a href="https://github.com/satucat/recyclebin/tree/main/themes/minecraft-chest">[View Icons]</a></b>
 </details>
 
 <details>
@@ -67,6 +67,13 @@ Run ``iwr satucat.github.io/recyclebin/get.ps1 | iex`` in Powershell (recommende
 <img src="themes/niko/preview.gif">
 <br>
 <b><a href="https://github.com/satucat/recyclebin/tree/main/themes/niko">[View Icons]</a></b>
+</details>
+
+<details>
+<summary><b>Windows 95</b></summary>
+<img src="themes/windows-95/preview.gif">
+<br>
+<b><a href="https://github.com/satucat/recyclebin/tree/main/themes/windows-95">[View Icons]</a></b>
 </details>
 
 ## How to change the Recycle Bin icon
