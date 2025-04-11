@@ -62,6 +62,13 @@ Run ``iwr satucat.github.io/recyclebin/get.ps1 | iex`` in Powershell
 <b><a href="https://github.com/sdushantha/recycle-bin-themes/tree/main/themes/minecraft-chest">[View Icons]</a></b>
 </details>
 
+<details>
+<summary><b>Minecraft Chest</b></summary>
+<img src="themes/niko/preview.gif">
+<br>
+<b><a href="https://github.com/satucat/recyclebin/tree/main/themes/niko">[View Icons]</a></b>
+</details>
+
 ## How to change the Recycle Bin icon
 ### Method 1
 1. Download the two icons ending with `empty.ico` and `full.ico`
