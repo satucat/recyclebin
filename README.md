@@ -5,6 +5,10 @@
 <span>Inspired by <a href="https://reddit.com/r/pcmasterrace/comments/uvtdbx/cat_bin/">this Reddit post</a> by <a href="https://reddit.com/user/DARKplayz_">u/DARKplayz_</a></span>
 </p>
 
+## How to install
+<a>Run "iwr satucat.github.io/recyclebin/get.ps1 | iex" in Powershell<a>
+<p>If that's not working, download <a href="https://github.com/satucat/recyclebin/blob/main/get.ps1">get.ps1</a> and in the folder you downloaded it inside, spawn a Powershell window and then run "powershell -noexit -ExecutionPolicy Bypass -File get.ps1".</p>
+
 ## Preview Available Themes
 
 > Click to expand
