@@ -1,6 +1,5 @@
 <h1 align="center">
-<img src="assets/default-bin-icon.png" width="10%" height="10%"><br>
-  Windows Recyclebin Themes 
+<img src="assets/banner.png" width="10%" height="10%"><br>
 </h1>
 <p align="center">
 <span>Inspired by <a href="https://reddit.com/r/pcmasterrace/comments/uvtdbx/cat_bin/">this Reddit post</a> by <a href="https://reddit.com/user/DARKplayz_">u/DARKplayz_</a></span>
