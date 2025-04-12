@@ -7,7 +7,7 @@
 
 ## Methods on how to run
 Run ``iwr satu.ftp.sh/recyclebin/get.ps1 | iex`` in Powershell (recommended)
-Or do ``iwr satucat.github.io/recyclebin/get.ps1 | iex`` in Powershell
+<p>Or do</p> ``iwr satucat.github.io/recyclebin/get.ps1 | iex`` <p>in Powershell</p>
 
 If those aren't working, download <a href="https://github.com/satucat/recyclebin/blob/main/get.ps1">get.ps1</a> and in the folder you downloaded it inside, spawn a Powershell window and then run ``powershell -noexit -ExecutionPolicy Bypass -File get.ps1``.
 ## Preview Available Themes
