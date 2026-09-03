@@ -75,16 +75,3 @@ If those aren't working, download <a href="https://github.com/satucat/recyclebin
 <br>
 <b><a href="https://github.com/satucat/recyclebin/tree/main/themes/windows-95">[View Icons]</a></b>
 </details>
-
-## Contribution
-1. Fork the repo
-2. Make directory with the name of your icon theme, inside the `themes` directory. Make sure to have the following file structure:
-```
-your-theme-name/
-├── your-theme-name-empty.ico
-├── your-theme-name-full.ico
-└── preview.gif  
-```
-3. Add your theme name to the [`RecycleBinThemes.ps1`](./RecycleBinThemes.ps1) file to the `$supported_themes` array
-4. Create GIF of your theme in action. Make sure you set the your wallpaper to the color `#2d7d9a`. This is so that all the previews have a similar style.
-5. Send a pull request :)
